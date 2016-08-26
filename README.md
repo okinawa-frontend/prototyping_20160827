@@ -10,3 +10,6 @@ Sketch（ドローイングツール）とFlinto（プロトタイピングツ�
 - [Flinto](https://www.flinto.com/ja/mac/download)
 - [Flinto sketch plugin](https://www.flinto.com/ja/mac_sketch_plugin)
 
+## サンプル
+
+![サンプル](https://github.com/okinawa-frontend/prototyping_20160827/blob/master/example.gif?raw=true)
